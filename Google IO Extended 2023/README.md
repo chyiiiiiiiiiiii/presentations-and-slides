@@ -8,3 +8,14 @@ Date: 2023-07-01, 2023-07-08 <br>
 Location: Taichung, Taipei <br>
 Host: GDG Taichung, GDG Taipei <br>
 Language: Chinese <br>
+
+## Photos
+![](photos/1.jpg)
+
+Yii            | Yii
+:-------------------------:|:-------------------------:|
+![](photos/2.jpg)  |  ![](photos/3.jpg)
+
+GDG            | Richard
+:-------------------------:|:-------------------------:|
+![](photos/4.jpg)  |  ![](photos/5.jpg)
