@@ -14,4 +14,4 @@ Language: Chinese <br>
 
 Yii            | Yii
 :-------------------------:|:-------------------------:|
-![Yii](photos/2.jpg)  |  ![Yii](photos/3.jpg)
+<img src='photos/2.jpg' /> |  <img src='photos/3.jpg' />
