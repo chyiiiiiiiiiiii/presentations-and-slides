@@ -2,7 +2,8 @@
 
 <img src='cover.jpg'/>
 
-[Slide](https://docs.google.com/presentation/d/14EaZRa-uBGp_kd61VEv2jsbvyCwVY10RI_wBMC3UWu8/edit?usp=sharing)
+[📹 Video](https://www.youtube.com/watch?v=uAYCrNjBTvQ&ab_channel=FlutterTaipei)
+[📘 Slide](https://docs.google.com/presentation/d/14EaZRa-uBGp_kd61VEv2jsbvyCwVY10RI_wBMC3UWu8/edit?usp=sharing)
 
 Date: 2023-09-27 <br>
 Location: Taipei <br>
