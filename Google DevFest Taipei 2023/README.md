@@ -2,7 +2,7 @@
 
 <img src='cover.jpg'></img>
 
-[📹 Video]()
+[📹 Video](https://youtu.be/uFjzlzHg_Qc?si=geFIyz8gNsgozrr-)
 [📘 Slide](https://docs.google.com/presentation/d/1tuZIuHTmYuqrM6AcIj59YeQurHL3wJ-u-MOi3tLolqs/edit?usp=sharing)
 
 Date: 2023-12-16 <br>
