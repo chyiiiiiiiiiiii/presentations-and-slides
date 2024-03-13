@@ -2,7 +2,7 @@
 
 <img src='cover.jpg'/>
 
-[📹 Video](https://www.youtube.com/watch?v=boYJeDcDcfg)
+[📹 Video](https://youtu.be/aeqw-dk2ak0?si=d2L_PzYrOetTqRr_)
 [📘 Slide](https://www.canva.com/design/DAF7E7gHXw8/n6yBMR951e5eEY0WOZyd-w/edit?utm_content=DAF7E7gHXw8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Date: 2024-01-30 <br>
