@@ -4,6 +4,7 @@ All my public sharing is here. Enjoy it!
 
 | Date | Event | Title | Repo | Video | Slide |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2024-05-30 | Flutter Colombo Meetup May 2024 | What can I do with "Extension Types" in Dart? | [Link]() | [Video](https://www.youtube.com/watch?v=YQP9LMC8Yyw) | [Slide](https://docs.google.com/presentation/d/1Pr1PTOkqojfMrk-WVX1yIVSouBujva75vnXo3iyDCEo/edit?usp=sharing) |
 | 2024-03-26 | Flutter Meetup #11 | Have Fun in Global Gamers Challenge | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Flutter%20Taipei%20Meetup%20%2311) | [Video](https://www.youtube.com/watch?v=nEsyLtULIik&t=6s&ab_channel=FlutterTaipei) | [Slide](https://gamma.app/docs/Flutter-Global-Gamers-Challenge-39ysex8nmx98szu) |
 | 2024-01-30 | Flutter Meetup #10 | Flutter January 2024 | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Flutter%20January%202024) | [Video](https://youtu.be/aeqw-dk2ak0?si=d2L_PzYrOetTqRr_) | [Slide](https://www.canva.com/design/DAF7E7gHXw8/n6yBMR951e5eEY0WOZyd-w/edit?utm_content=DAF7E7gHXw8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | 2023-12-16 | Google DevFest Taipei 2023 | Develop Efficiently by Dart 3 | [Link](https://github.com/chyiiiiiiiiiiii/presentations-and-slides/tree/main/Google%20DevFest%20Taipei%202023) | [Video](https://youtu.be/uFjzlzHg_Qc?si=geFIyz8gNsgozrr-) | [Slide](https://docs.google.com/presentation/d/1tuZIuHTmYuqrM6AcIj59YeQurHL3wJ-u-MOi3tLolqs/edit?usp=sharing) |
