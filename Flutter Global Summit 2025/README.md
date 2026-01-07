@@ -2,6 +2,7 @@
 
 <img src='cover.png'/>
 
+[🎬 Official Recording](https://event.geekle.us/video/flutter-in-app-purchases-simplified-pro-tips-best-practices-and-pitfalls-with-revenuecat)
 [📹 Video](https://www.youtube.com/watch?v=91mEKd2XszA&ab_channel=YiiChen)
 [📘 Slide](https://docs.google.com/presentation/d/1FJOsGOjNRorJTBAxZcZwlwDGkhDVhBJfsEkt1qXoapw/edit?usp=sharingng)
 
